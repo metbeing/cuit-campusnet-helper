@@ -1,0 +1,14 @@
+{
+  "name": "cuit-campusnet-helper",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "成都信息工程大学校园网(锐捷 Portal) Windows 开机自动登录工具",
+  "scripts": {
+    "start": "node login.mjs",
+    "check": "node login.mjs --check"
+  },
+  "dependencies": {
+    "playwright": "^1.61.0"
+  }
+}

@@ -1,0 +1,13 @@
+# 真实配置(含账号密码), 绝不入库
+config.json
+node.path
+
+# 运行产物
+logs/
+node_modules/
+package-lock.json
+
+# 系统杂项
+*.lnk
+Thumbs.db
+Desktop.ini

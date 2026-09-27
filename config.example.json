@@ -1,0 +1,15 @@
+{
+  "portalUrl": "http://10.254.241.66/portal/",
+  "wifiName": "Cuit_WiFi",
+  "username": "在这里填你的账号",
+  "password": "在这里填你的密码",
+  "isp": "中国移动",
+  "checkUrls": [
+    "http://www.gstatic.com/generate_204",
+    "http://connect.rom.miui.com/generate_204"
+  ],
+  "headless": true,
+  "waitNetworkSeconds": 90,
+  "maxAttempts": 3,
+  "attemptIntervalSeconds": 10
+}
